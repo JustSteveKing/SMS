@@ -1,4 +1,4 @@
-# SMS
+# JustSteveKing SMS Sender
 An SMS Sender for the TextLocal API
 
 A simple example:
