@@ -1,5 +1,5 @@
-# JustSteveKing SMS Sender
-An SMS Sender for the TextLocal API
+# TextLocal SMS Sender
+An SMS Sender for the TextLocal version 2 API
 
 A simple example:
 
