@@ -1,6 +1,8 @@
 # TextLocal SMS Sender
 An SMS Sender for the TextLocal version 2 API
 
+**This package is currently being updated to a new version, please check issues for progress**
+
 A simple example:
 
 ```php
