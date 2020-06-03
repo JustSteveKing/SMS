@@ -1,1 +1,2 @@
-composer/*
+.idea/
+vendor/
