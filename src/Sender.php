@@ -1,8 +1,12 @@
 <?php
 
+declare(strict_types=1);
+
 namespace JustSteveKing\SMS;
 
-class Sender {
+class Sender
+{
+
 	private static $requestUri = 'http://api.txtlocal.com/';
 	private static $requestTimeout = 60;
 
